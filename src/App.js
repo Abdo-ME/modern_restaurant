@@ -3,7 +3,7 @@ import React from 'react';
 import { AboutUs, Chef, FindUs, Footer, Gallery, Header, Intro, Laurels, SpecialMenu } from './container';
 import { Navbar } from './components';
 import './App.css';
-console.log('01:08, last One')
+console.log('01:31, last One')
 const App = () => (
   <div>
     <Navbar />
