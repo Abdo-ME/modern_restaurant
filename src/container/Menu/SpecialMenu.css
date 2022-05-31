@@ -45,6 +45,9 @@
 }
 
 @media screen and (max-width: 2000px) {
+  .app__spcialeMenu-menu_heading {
+    font-size: 44px;
+  }
   .app__spcialeMenu-menu_img {
     width: 650px;
   }
