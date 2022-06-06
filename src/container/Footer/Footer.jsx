@@ -34,7 +34,7 @@ const Footer = () => (
       </div>
     </div>
     <div className="footer__copyright" style={{ zIndex: '1' }}>
-      <p className="p__opensans">2022, Coded By Abdelhak Mehda.</p>
+      <p className="p__opensans">2022, Coded By <span style={{ background: "#f0cd57", color: "#000" }}>Abdelhak Mehda</span> .</p>
     </div>
   </div>
 );
